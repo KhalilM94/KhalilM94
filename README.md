@@ -15,4 +15,4 @@
 **Databases:** PostgreSQL/PostGIS, DuckDB  
 **Data Engineering / ETL / Ingestion Pipelines:** Apache Spark/Sedona, Flink, Airflow  
 **Web & API Development:** FastAPI  
-*CI/CD, Cloud Deployment, & Cloud*
+*CI/CD and Cloud Deployment*
