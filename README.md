@@ -13,6 +13,6 @@
 **AI/ML Frameworks Training, Deployment, and Observability:** PyTorch, Scikit-learn, XGBoost, mlflow  
 **GIS & Remote Sensing:** QGIS, GDAL, Google Earth Engine  
 **Databases:** PostgreSQL/PostGIS, DuckDB  
-**Data Engineering / ETL / Ingestion Pipelines:** Apache Spark/Sedona, Flink, Airflow
-**Web & API Development:** FastAPI
+**Data Engineering / ETL / Ingestion Pipelines:** Apache Spark/Sedona, Flink, Airflow  
+**Web & API Development:** FastAPI  
 *CI/CD, Cloud Deployment, & Cloud*
